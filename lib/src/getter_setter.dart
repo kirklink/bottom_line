@@ -6,15 +6,8 @@ class GetterSetterException implements Exception {
   String toString() => 'GetterSetterException: $message';
 }
 
-//class Item<T>{
-//  T _value;
-//  T get value => _value;
-//
-//  Item(Object value) : _value = value;
-//}
 
 class GetterSetter<T> {
-//  Map<String, Item> _items = Map<String, Item>();
 
   Map<String, Object> _items = {};
 

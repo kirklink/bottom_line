@@ -1,0 +1,1 @@
+export 'src/getter_setter.dart' show GetterSetter;
