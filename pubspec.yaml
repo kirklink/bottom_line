@@ -1,6 +1,6 @@
 name: bottom_line
 description: 'Utilities'
-version: 0.0.2
+version: 0.0.3
 environment:
   sdk: ^2.0.0
 dependencies:
