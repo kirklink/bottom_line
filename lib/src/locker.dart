@@ -7,7 +7,7 @@ class GetterSetterException implements Exception {
 }
 
 
-class GetterSetter<T> {
+class Locker<T> {
 
   Map<String, Object> _items = {};
 
