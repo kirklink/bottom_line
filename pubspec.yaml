@@ -2,7 +2,7 @@ name: bottom_line
 author: "Kirk Linkletter <kirklinkletter@gmail.com>"
 homepage: "https://github.com/kirklink/bottom_line"
 description: "Various utilities for Dart code."
-version: 0.0.3
+version: 0.0.4
 environment:
   sdk: ">=2.0.0 <3.0.0"
 dependencies:
